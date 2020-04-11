@@ -1,6 +1,6 @@
 # ESP12_Minimal_Development Board (On-Going)
 ## Goal:
-There are many dev boards out there however that all have additional functinos/Ic's that consumes unnecessary power, thus not suitable for low power projects.
+There are many dev boards out there however that all have additional functinos/Ic's that consumes unnecessary power, thus not suitable for low power projects.<br/>
 Thus. this project is to develop a breakout for ESP12 series chips that draws minimal power while supporting all basic dev functions.
 (User flash and reset)
 ## Requirments:
