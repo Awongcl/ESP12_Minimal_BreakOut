@@ -14,3 +14,5 @@ Thus. this project is to develop a breakout for ESP12 series chips that draws mi
 ![](Images/Schematic.JPG) 
 ### PCB:
 ![](Images/PCB.gif) 
+### Product/Testing
+![](Images/Product.jpg) 
