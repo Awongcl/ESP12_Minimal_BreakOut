@@ -14,5 +14,11 @@ Thus. this project is to develop a breakout for ESP12 series chips that draws mi
 ![](Images/Schematic.JPG) 
 ### PCB:
 ![](Images/PCB.gif) 
-### Product/Testing
-![](Images/Product.jpg) 
+### Product/Testing:
+![](Images/Product.jpg)
+Testing was done after all the components are soldered onto the board along with the ESP12 Chip.<br/>
+1. Power up with 3.3V or 5V (Checked, OK)
+2. Pins are correct, able to send data, upload code (Checked, OK)
+3. I2C, SPI communications bus working  (Checked, OK)
+4. Deepsleep works with jumper (Checked, OK)
+5. Draws low current without LDO (Checked,OK) Less then 1mA when deepsleep.
